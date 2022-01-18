@@ -2,9 +2,8 @@
 tags: #presentation
 ---
 
-# Presentation title
+# <Presentation title>
 
-- Title: `TITLE`
 - Author: `name <email.com>`
 - Tags: #[lang_de|lang_en]
 
