@@ -1,6 +1,6 @@
 ---
 author: name <email@mail.ch>
-tags: #note, #article
+tags: note, article
 ---
 
 # {{title}}
