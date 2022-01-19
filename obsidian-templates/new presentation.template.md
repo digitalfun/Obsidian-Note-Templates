@@ -1,5 +1,5 @@
 ---
-tags: #presentation
+tags: presentation
 ---
 
 # <Presentation title>
@@ -10,6 +10,7 @@ tags: #presentation
 ---
 
 ## Fact 1
+
 - text
 - text
     - text
