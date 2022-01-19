@@ -1,6 +1,6 @@
 ---
 author: name <name@mail.ch>
-tags: #note, #year-{{date:YYYY}}, #month-{{date:MM}}
+tags: note, year-{{date:YYYY}}, month-{{date:MM}}
 ---
 
 # {{title}}
