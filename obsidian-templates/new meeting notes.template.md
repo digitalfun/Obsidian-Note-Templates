@@ -1,15 +1,16 @@
 ---
 author: name <name@mail.ch>
-tags: #meeting-notes
+tags: meeting-notes
 ---
 
 # {{title}}
 
 _SHORT_DESCRIPTION_
 
-- Date: {{date:DD.MM.YYYY}}
+- Date: {{date:DD.MM.YYYY}}  
 - Attendees:  
-  * 
+  * PersonA
+  * PersonB
   
 - - - -  
     
