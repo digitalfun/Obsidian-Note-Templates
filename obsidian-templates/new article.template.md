@@ -1,6 +1,7 @@
 ---
 author: name <email@mail.ch>
 tags: note, article
+id: {{date:YYYYMMDDHHmm}}
 ---
 
 # {{title}}
