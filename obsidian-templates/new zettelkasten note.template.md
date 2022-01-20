@@ -4,7 +4,7 @@ tags: note, zettel, zettelkasten, year-{{date:YYYY}}, month-{{date:MM}}
 id: {{date:YYYYMMDDHHmm}}
 ---
 
-# {{title}}
+# TITLE
 
 - tags: #[lang_de|lang_en]
 
