@@ -1,6 +1,7 @@
 ---
 author: name <name@mail.ch>
-tags: meeting-notes
+tags: note, meeting-note, meeting
+id: {{date:YYYYMMDDHHmm}}
 ---
 
 # {{title}}
