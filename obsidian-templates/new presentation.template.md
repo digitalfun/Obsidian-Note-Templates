@@ -1,5 +1,6 @@
 ---
 tags: presentation
+id: {{date:YYYYMMDDHHmm}}
 ---
 
 # <Presentation title>
@@ -24,8 +25,10 @@ tags: presentation
 > test this
 > quote system
 
-Famous quote!
+\- AUTHOR!
 
+    Famous quote !
+    
 ---
 
 ## Summary
